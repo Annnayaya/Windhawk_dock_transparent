@@ -5,7 +5,7 @@
   "styleConstants[0]": "",
   "themeResourceVariables[0]": "",
   "controlStyles[0].target": "Taskbar.TaskbarFrame > Grid#RootGrid > Taskbar.TaskbarBackground > Grid > Rectangle#BackgroundFill",
-  "controlStyles[0].styles[0]": "Fill:=<WindhawkBlur BlurAmount=\"20\" TintColor=\"#40D9D9D9\" FallbackColor=\"#40D9D9D9\" />",
+  "controlStyles[0].styles[0]": "Fill:=<WindhawkBlur BlurAmount=\"20\" TintColor=\"#26D9D9D9\" FallbackColor=\"#26D9D9D9\" />",
   "controlStyles[1].target": "Grid#IconPanel@CommonStates > Border#BackgroundElement, Taskbar.TaskListLabeledButtonPanel@CommonStates > Border#BackgroundElement, Taskbar.TaskListButtonPanel@CommonStates > Grid > Border#BackgroundElement, Taskbar.TaskListButtonPanel@CommonStates > Border#BackgroundElement, SearchUx.SearchUI.SearchButtonRootGrid@CommonStates > Grid > Border#BackgroundElement, SearchUx.SearchUI.SearchButtonRootGrid@CommonStates > Border#BackgroundElement",
   "controlStyles[1].styles[0]": "Background@PointerOver:=<WindhawkBlur BlurAmount=\"5\" TintColor=\"#20FFFFFF\" TintSaturation=\"1.15\" FallbackColor=\"#40303030\" />",
   "controlStyles[1].styles[1]": "BorderBrush@PointerOver:=<LinearGradientBrush StartPoint=\"0,0\" EndPoint=\"0,1\"><GradientStop Color=\"#75FFFFFF\" Offset=\"0\"/><GradientStop Color=\"#20707070\" Offset=\"0.2\"/><GradientStop Color=\"#10303030\" Offset=\"0.5\"/><GradientStop Color=\"#20505050\" Offset=\"0.8\"/><GradientStop Color=\"#50D0D0D0\" Offset=\"1\"/></LinearGradientBrush>",
